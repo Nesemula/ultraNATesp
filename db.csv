@@ -1,4 +1,11 @@
-Name,Release,Publisher,Genre,Size,CRC32,Status
-1942,1986-05,Konami,Shot'em Up,40k,98B6B7A6,Works
-Donkey Kong,1985-05,Nintendo,Platform,24k,1E34DD89,works
+Title,Release,Publisher,Board,Size,CRC32,Status,Notes
+10-Yard Fight,1985/10,Nintendo,NROM,40k,3D564757,Works,
+Balloon Fight,1986/06,Nintendo,NROM,24k,401349A8,Works,
+Baseball,1985/10,Nintendo,NROM,24k,AFDCBD24,Works,
+Clu Clu Land,1985/10,Nintendo,RROM,24k,48F68D40,Works,
+Donkey Kong,1986/06,Nintendo,NROM,24k,6F97C721,Works,
+Donkey Kong 3,1986/06,Nintendo,NROM,24k,B3D74C0D,Works,
+Donkey Kong Jr. Math,1985/10,Nintendo,NROM,24k,0504B007,Not tested,
+Donkey Kong Jr.,1986/06,Nintendo,NROM,24k,4864C304,Works,
+Duck Hunt,1985/10,Nintendo,NROM,24k,24598791,Not playable,Needs Zapper support
 
