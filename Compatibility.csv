@@ -13,15 +13,15 @@ Golf,1985/10,Nintendo,Nintendo,NROM,16k,8k,Horizontal,E7D2C49D,Not tested,
 Gumshoe,1986/06,Nintendo,Nintendo,GNROM,128k,32k,Vertical,BEB8AB01,Unsupported PCB,Needs Zapper support
 Gyromite,1985/10,Nintendo,Nintendo,NROM,32k,8k,Vertical,023A5A32,Not tested,May use R.O.B.
 Hogan's Alley,1985/10,Nintendo,Nintendo,NROM,16k,8k,Vertical,FF24D794,Not tested,Needs Zapper support
-Ice Climber,1985/10,Nintendo,Nintendo,NROM,16k,8k,Horizontal,FB98D46E,Works
-Kung Fu,1985/10,Nintendo,Irem,NROM,32k,8k,Vertical,D5C64257,Not tested
-Mach Rider,1985/10,Nintendo,Nintendo,NROM,32k,8k,Vertical,59977A46,Not tested
-Mario Bros.,1986/06,Nintendo,Nintendo,NROM,16k,8k,Horizontal,C4C3949A,Minor issues
-Pinball,1985/10,Nintendo,Nintendo,NROM,16k,8k,Horizontal,035DC2E9,Not tested
+Ice Climber,1985/10,Nintendo,Nintendo,NROM,16k,8k,Horizontal,FB98D46E,Works,
+Kung Fu,1985/10,Nintendo,Irem,NROM,32k,8k,Vertical,D5C64257,Not tested,
+Mach Rider,1985/10,Nintendo,Nintendo,NROM,32k,8k,Vertical,59977A46,Not tested,
+Mario Bros.,1986/06,Nintendo,Nintendo,NROM,16k,8k,Horizontal,C4C3949A,Minor issues,
+Pinball,1985/10,Nintendo,Nintendo,NROM,16k,8k,Horizontal,035DC2E9,Not tested,
 Popeye,1986/06,Nintendo,Nintendo,NROM,16k,8k,Horizontal,70860FCA,Works,Revision A
 Stack-Up,1985/10,Nintendo,Nintendo,NROM,32k,8k,Horizontal,DF67DAA1,Not tested,May use R.O.B.
 Super Mario Bros.,1985/10,Nintendo,Nintendo,NROM,32k,8k,Vertical,D445F698,Major issues,Damn status bar
-Tennis,1985/10,Nintendo,Nintendo,NROM,16k,8k,Horizontal,D4D9E21A,Works
-Urban Champion,1986/06,Nintendo,Nintendo,NROM,16k,8k,Vertical,656D4265,Not tested
+Tennis,1985/10,Nintendo,Nintendo,NROM,16k,8k,Horizontal,D4D9E21A,Works,
+Urban Champion,1986/06,Nintendo,Nintendo,NROM,16k,8k,Vertical,656D4265,Not tested,
 Wild Gunman,1985/10,Nintendo,Nintendo,NROM,16k,8k,Vertical,B8B9ACA3,Not tested,Needs Zapper support
-Wrecking Crew,1985/10,Nintendo,Nintendo,NROM,32k,8k,Horizontal,9B506A48,Not tested
+Wrecking Crew,1985/10,Nintendo,Nintendo,NROM,32k,8k,Horizontal,9B506A48,Not tested,
